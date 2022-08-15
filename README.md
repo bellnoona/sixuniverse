@@ -1,7 +1,7 @@
 #  🏠SixUniverse (숙박 공유 사이트)   
 
 
-<img width="1200" alt="image" src="https://user-images.githubusercontent.com/76866502/184530016-157acd6a-9e5d-473c-a0b5-beace2fa9896.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/76866502/184530016-157acd6a-9e5d-473c-a0b5-beace2fa9896.png">
 
 - 배포 URL : http://sixuniverse.herokuapp.com/ (현재 서비스 중단 상태)   <br/>
 - 최종 발표자료에서 모든 구현 기능과 파트 분배를 자세히 보실 수 있습니다.   <br/>
