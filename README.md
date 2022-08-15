@@ -5,7 +5,7 @@
 
 - 배포 URL : http://sixuniverse.herokuapp.com/ (현재 서비스 중단 상태)   <br/>
 - 최종 발표자료에서 모든 구현 기능과 파트 분배를 자세히 보실 수 있습니다.   <br/>
-: https://docs.google.com/presentation/d/1bZqgxlj_6bSqxxA4EPhaXeI-9nsY7ilBrusIn-pUGiU/edit#slide=id.gcaf936bbf5_0_5   
+: https://docs.google.com/presentation/d/19SEoaTjpnbqNx-ZSX_6StphRuKGOOE3d2ch9erz2GDQ/edit?usp=sharing  
 
 
 ## 1. 소개
